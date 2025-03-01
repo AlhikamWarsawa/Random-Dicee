@@ -1,1 +1,1 @@
-<img src="Documentation/randomDice">
+![Random Dice](Documentation/randomDice.png)
